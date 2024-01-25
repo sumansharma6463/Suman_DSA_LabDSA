@@ -18,6 +18,8 @@ Sample Output
 
 The entered Strings do not contain Balanced Brackets
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Q2: Find a pair with a given sum in Binary Search Tree
 
 40 / 20 60 / \ / 10 30 50 70
